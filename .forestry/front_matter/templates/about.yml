@@ -2,15 +2,15 @@
 label: About
 hide_body: false
 fields:
-- type: boolean
-  name: works_index
-  label: works_index
 - type: text
-  name: hero_text
-  label: hero_text
+  name: Kell Gauthier
+  label: Kell Gauthier
 - type: text
   name: title
   label: title
 - type: text
-  name: Kell Gauthier
-  label: Kell Gauthier
+  name: hero_text
+  label: hero_text
+- type: boolean
+  name: works_index
+  label: works_index
