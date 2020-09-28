@@ -22,4 +22,3 @@ Often, Trek dealers and the sales staff are busy, and to streamline the sales pr
 Vue.JS
 
 <center><iframe src="https://player.vimeo.com/video/462697508" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/462697508">Trek_Kiosk_Application (1)</a> from <a href="https://vimeo.com/user124088756">Kell Gauthier</a> on <a href="https://vimeo.com">Vimeo</a>.</p></center>
