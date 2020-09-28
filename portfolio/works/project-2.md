@@ -26,8 +26,13 @@ Internal research and surveying revealed that overall brand recognition was low,
 
 ![](/upload/kanbanboard.png)
 
-Here are some stills of the website:   
+### Tools
+
+Adobe Photoshop, Adobe Illustrator, Adobe InDesign, WordPress, HTML, CSS, Javascript
+
+  
+Here are some stills of the website:  
 ![](/upload/screen-shot-2020-09-28-at-12-01-14-pm.png)![](/upload/screen-shot-2020-09-28-at-12-01-47-pm.png)  
 ![](/upload/screen-shot-2020-09-28-at-12-02-13-pm.png)
 
-and you can view the site [here](https://livingspacesunrooms.com "here"). 
+and you can view the site [here](https://livingspacesunrooms.com "here").
