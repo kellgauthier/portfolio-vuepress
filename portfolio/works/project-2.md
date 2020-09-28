@@ -16,12 +16,18 @@ LivingSpace Sunrooms is a premium sunroom company, think the Cadillac Escalade's
 
 ![](/upload/livingspacesunrooms.jpg)
 
-I worked with a team to revamp the existing brand and started with the website. I focused on customer usability and overall accessibility. Our sunroom building process is efficient and simple for the homeowner and we wanted to match that efficiency with our website.
+I worked with a team to revamp the existing brand and started with the website. I focused on customer usability and overall accessibility. Livingspace's sunroom building process is efficient and simple for the homeowner and we wanted to match that efficiency with our website.
 
 ![](/upload/logo-livingspace.jpg)
 
-### A New Perspective 
+### A New Perspective
 
 Internal research and surveying revealed that overall brand recognition was low, customer satisfaction was high. Creating a user path via the website that would allow for home owners to have all the information they needed proactively to make an informed purchasing decision in an otherwise complicated process and competitive market would create a transparent process for acquiring the best, in our humble opinion, sunroom in the market. With a clear, concise tone of voice and stunning photography, we established a trust that is built between the customer and the dealer.
 
 ![](/upload/kanbanboard.png)
+
+Here are some stills of the website:   
+![](/upload/screen-shot-2020-09-28-at-12-01-14-pm.png)![](/upload/screen-shot-2020-09-28-at-12-01-47-pm.png)  
+![](/upload/screen-shot-2020-09-28-at-12-02-13-pm.png)
+
+and you can view the site [here](https://livingspacesunrooms.com "here"). 
