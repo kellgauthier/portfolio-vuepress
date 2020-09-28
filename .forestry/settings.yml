@@ -10,7 +10,7 @@ sections:
   templates:
   - settings
 - type: document
-  path: portfolio/about
+  path: portfolio/about.md
   label: About
 - type: directory
   path: portfolio/works
