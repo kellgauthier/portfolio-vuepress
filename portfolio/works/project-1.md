@@ -22,7 +22,7 @@ Conwed was acquired by the Reset Group from Owen's Corning in 2018. Conwed had a
 
 Conwed is a corporation with a rich history, dating back to 1921, and specializing in acoustic treatments and services to commercial properties like offices, and concert halls. Although Conwed was already established and known on the local market, the company had a bad reputation and strived for refreshing the visual identity and bringing their products to the next level.
 
-I led a team of talented graphic designers, and we had a real opportunity to create a brand identity from scratch. The tarnished reputation made the challenge even more interesting, as the companies providing similar services had different approaches and vision of their brand images and needed new original looks. There is always the place for creative perspective in design, and being in the architectural / interior design space, made this project that much more cool.
+I led a team of talented graphic designers and web developers, and we had a real opportunity to create a brand identity from scratch. The tarnished reputation made the challenge even more interesting, as the companies providing similar services had different approaches and vision of their brand and we needed new original looks. There is always the place for creative perspective in design, and being in the architectural / interior design space, made this project that much more exciting to be a part of.
 
 For this project, we accomplished a set of tasks according to the stakeholders’s marketing strategy:
 
@@ -40,8 +40,8 @@ Packaging
 
 Adobe Photoshop, Adobe Illustrator, Adobe InDesign, WordPress, HTML, CSS, Javascript
 
-### Web Design 
+### Web Design
 
 ![](/upload/conwed-website-2020.png)
 
-You can visit the website [here](www.conwed.com "conwed"). 
+You can visit the website [here](www.conwed.com "conwed").
