@@ -19,4 +19,10 @@ Often, Trek dealers and the sales staff are busy, and to streamline the sales pr
 
 ### Tools
 
-Vue.JS 
+Vue.JS
+
+### Here's a video rundown of the app
+
+Or visit a Trek retail location near you. 
+
+<center><iframe src="https://player.vimeo.com/video/462697508" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>

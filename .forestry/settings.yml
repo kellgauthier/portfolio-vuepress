@@ -9,6 +9,9 @@ sections:
   label: Homepage
   templates:
   - settings
+- type: document
+  path: portfolio/about
+  label: About
 - type: directory
   path: portfolio/works
   label: Works
