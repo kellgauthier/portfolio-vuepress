@@ -11,6 +11,3 @@ fields:
 - type: text
   name: hero_text
   label: hero_text
-- type: boolean
-  name: works_index
-  label: works_index
