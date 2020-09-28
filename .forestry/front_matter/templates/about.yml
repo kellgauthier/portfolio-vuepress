@@ -7,6 +7,15 @@ fields:
   config:
     required: false
   label: Header
+- name: text-area
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: text-area
 - name: blocks
   type: blocks
   template_types: []
