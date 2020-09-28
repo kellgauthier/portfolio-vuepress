@@ -7,7 +7,7 @@
   "navigation": [
     {
       "text": "About",
-      "link": "",
+      "link": "/about",
       "position": "left",
       "external": false
     },
