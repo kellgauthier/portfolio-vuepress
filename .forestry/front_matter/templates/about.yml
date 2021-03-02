@@ -2,6 +2,11 @@
 label: About
 hide_body: true
 fields:
+- name: about_us
+  type: include
+  config: {}
+  template: about
+  label: 'About Us '
 - name: about_us_header
   type: text
   config:
