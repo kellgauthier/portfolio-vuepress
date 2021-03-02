@@ -1,25 +1,17 @@
 ---
 label: About
-hide_body: true
+hide_body: false
 fields:
-- name: header
-  type: text
+- type: text
+  name: title
+  label: title
+  hidden: true
+- type: textarea
+  name: description
+  label: description
   config:
-    required: false
-  label: Header
-- name: text-area
-  type: textarea
-  default: ''
-  config:
-    required: false
     wysiwyg: true
     schema:
-      format: markdown
-  label: text-area
-- name: blocks
-  type: blocks
-  template_types: []
-  config:
-    min: 
-    max: 
-  label: blocks
+      format: html
+pages:
+- portfolio/about/index.md
