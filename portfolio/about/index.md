@@ -1,6 +1,6 @@
 ---
 works_index: false
-hero_text: "<strong>About</strong>"
+hero_text: About
 title: Kell Gauthier | Designer & Front End Developer
 Kell Gauthier: I design and build digital products.
 
