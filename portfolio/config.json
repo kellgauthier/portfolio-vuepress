@@ -6,6 +6,12 @@
   "favicon": "/upload/logo.svg",
   "navigation": [
     {
+      "text": "About Me",
+      "link": "/about/",
+      "position": "left",
+      "external": false
+    },
+    {
       "text": "Works",
       "link": "/",
       "position": "left",
