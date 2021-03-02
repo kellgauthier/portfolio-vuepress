@@ -9,9 +9,6 @@ sections:
   label: Homepage
   templates:
   - settings
-- type: document
-  path: portfolio/about/index.md
-  label: About
 - type: directory
   path: portfolio/works
   label: Works
