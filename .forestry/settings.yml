@@ -5,13 +5,13 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: document
+  path: portfolio/about/index.md
+  label: About
+- type: document
   path: portfolio/index.md
   label: Homepage
   templates:
   - settings
-- type: document
-  path: portfolio/about/index.md
-  label: About
 - type: directory
   path: portfolio/works
   label: Works

@@ -6,8 +6,8 @@
   "favicon": "/upload/logo.svg",
   "navigation": [
     {
-      "text": "About",
-      "link": "/about",
+      "text": "About Me",
+      "link": "/about/",
       "position": "left",
       "external": false
     },

@@ -2,6 +2,7 @@
 label: About
 hide_body: false
 fields:
+<<<<<<< HEAD
 - type: text
   name: title
   label: title
@@ -15,3 +16,19 @@ fields:
       format: html
 pages:
 - portfolio/about/index.md
+=======
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+>>>>>>> 9de29e679f908b7b49cd44e874716a803263abf3
