@@ -7,7 +7,6 @@ sections:
 - type: document
   path: portfolio/about/index.md
   label: About
-  match: "**/*"
 - type: document
   path: portfolio/index.md
   label: Homepage
